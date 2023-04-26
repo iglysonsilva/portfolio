@@ -2,7 +2,7 @@
 
 ## Programa ONE - Oracle Next Education | Desafio - Challenge
 
-Projeto desenvolvido com intuito da conclusão do desafio Challenge ONE - Front End, que tinha como base a construção de um Portfólio pessoal utilizando as linguagens HTML, CSS e JavaScript.
+Projeto desenvolvido para conclusão do desafio Challenge ONE - Front End, que tinha como base a construção de um Portfólio pessoal utilizando as linguagens HTML, CSS e JavaScript.
 
 ## Tecnologia Utilizadas
 
